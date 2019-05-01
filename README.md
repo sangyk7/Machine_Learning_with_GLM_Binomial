@@ -7,8 +7,7 @@ due  to  the following 2 reasons.
 
 The result is as follows.
 
-Number of data      RMSE
-100K                0.8806419   
-10M                 0.8659626
+In case of 100K datasets, RMSE is 0.8806419.
+In case of 10M datasets, RMSE is 0.8659626.
 
-The RMSE decreased as the number of data increased here.
+The RMSE decreased as the number of data increased.
